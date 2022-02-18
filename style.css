@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Gideon+Roman&family=Montserrat:ital,wght@0,300;1,200&family=Permanent+Marker&family=Roboto:ital,wght@0,100;1,100&display=swap');
+
+body{
+    background-color:#d5e1ef;
+}
+.main{
+    width: 372px;
+    height: 482px;
+    background-color: #FFFFFF;
+    position: relative;
+    left: 429px;
+    bottom: -168px;
+    border-radius: 48px;
+}
+img{
+    Width: 310px;
+    Height: 296px;
+    position: absolute;
+    left: 35px;
+    bottom: 165px;
+    border-radius: 41px;
+}
+.text-1{
+    text-align: center;
+    position: absolute;
+bottom: 89px;
+    font-family: 'Montserrat', sans-serif;
+
+}   
+.text-2{
+    text-align: center;
+    position: absolute;
+    bottom: 28px;
+    font-family: 'Montserrat', sans-serif;
+    letter-spacing: 1px;
+}
